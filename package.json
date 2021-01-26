@@ -1,0 +1,25 @@
+{
+  "name": "bot-reklamowy",
+  "version": "1.0.0",
+  "description": "always",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Faquer2007/fsfsfs.git)"
+  },
+  "keywords": [
+    "61234@bm"
+  ],
+  "author": "diren",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.5.0",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.3"
+  }
+}
